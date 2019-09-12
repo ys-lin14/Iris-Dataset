@@ -1,5 +1,5 @@
 # Iris-Dataset
-This Python project is aimed at implementing k-Nearest Neighbour and working with data.
+This Python project is aimed at implementing the k-Nearest Neighbour algorithm and working with data.
 
 Contents:
 * iris_knn
