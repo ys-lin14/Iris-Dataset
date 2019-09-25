@@ -4,7 +4,7 @@ This Python project is aimed at implementing the k-Nearest Neighbour algorithm a
 Contents:
 * iris_knn
   * splitting data into training and testing sets
-  * using k-Nearest Neighbors to classify training data
+  * using k-Nearest Neighbors to classify testing data
   
 * iris_visualization
   * data visualization using Seaborn
