@@ -1,6 +1,6 @@
 # Iris-Dataset
-This Python project is aimed at implementing the k-Nearest Neighbour algorithm and visualizing data obtained from the UCI Machine Learning
-Repository.
+This Python project is aimed at implementing the k-Nearest Neighbour algorithm and visualizing Fisher's iris dataset obtained from the 
+UCI Machine Learning Repository.
 
 Contents:
 * knn
