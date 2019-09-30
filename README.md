@@ -1,5 +1,5 @@
 # Iris-Dataset
-This Python project is aimed at implementing the k-Nearest Neighbour algorithm and working with data.
+This Python project is aimed at implementing the k-Nearest Neighbour algorithm and visualizing data.
 
 Contents:
 * iris_knn
@@ -7,5 +7,5 @@ Contents:
   * using k-Nearest Neighbors to classify testing data
   
 * iris_visualization
-  * data visualization using Seaborn
+  * visualizing data using Seaborn
 
