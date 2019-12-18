@@ -3,6 +3,9 @@ This Python project is aimed at implementing the k-Nearest Neighbour algorithm a
 UCI Machine Learning Repository.
 
 Contents:
+* iris.csv
+  * dataset obtained from the UCI Machine Learning Repository
+  
 * knn
   * splits the dataset into training and testing sets
   * uses k-Nearest Neighbors to classify testing data
